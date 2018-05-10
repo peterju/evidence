@@ -1,0 +1,4 @@
+#設定檔
+csvFile="107年03月份零用金給付(0301-0330)107P03.01.csv"
+sourceFolder="107P03.01"
+targetFolder="output"
